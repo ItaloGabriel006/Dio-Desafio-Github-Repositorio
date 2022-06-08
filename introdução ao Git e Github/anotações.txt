@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m "comit aqui"
+git push -u origin master
+git pull
